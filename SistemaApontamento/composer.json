@@ -1,0 +1,22 @@
+{
+    "name": "ceounset/cursophp8",
+    "description": "Curdo de PHP8",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Sistema\\": "Sistema/"
+        },"files":[
+            "Sistema/configuracao.php"
+    ]
+    },
+    "authors": [
+        {
+            "name": "Diego Jonatan de Miranda",
+            "email": "diegojonatanmiranda@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=8.0"
+    }
+}
