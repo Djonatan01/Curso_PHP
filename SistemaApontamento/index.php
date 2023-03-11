@@ -1,9 +1,10 @@
 <?php
 //Chamar as configurações do autoload do composer
-require 'vendor/autoload.php';
+//require 'vendor/autoload.php';
 
-echo Sistema\Nucleo\Helpers::saudacao();
+//echo Sistema\Nucleo\Helpers::saudacao();
 
+require 'rotas.php';
 //Chamar class com nameSpace
 //podemos também dar apelido nas class e chamar elas pelo apelido
 /*
