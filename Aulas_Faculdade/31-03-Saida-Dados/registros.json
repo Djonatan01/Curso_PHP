@@ -1,0 +1,20 @@
+{
+    "nome": "Diego Jonatan de miranda",
+    "email": "diego@fatec.sp.gov",
+    "idade": "38",
+    "0": {
+        "nome": "Diego Jonatan de miranda",
+        "idade": "32",
+        "email": "test@teste1"
+    },
+    "1": {
+        "nome": "Diego Jonatan de miranda",
+        "idade": "35",
+        "email": "test@teste3"
+    },
+    "2": {
+        "nome": "Diego Jonatan de miranda",
+        "idade": "36",
+        "email": "test@teste4"
+    }
+}
